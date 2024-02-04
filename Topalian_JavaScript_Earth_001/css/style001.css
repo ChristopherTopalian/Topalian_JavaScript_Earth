@@ -1,0 +1,84 @@
+/* Dedicated to God the Father */
+
+/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2024 */
+
+/* https://github.com/ChristopherTopalian */
+
+/* https://github.com/ChristopherAndrewTopalian */
+
+/* style001.css */
+
+body
+{
+    background-color: rgb(40, 40, 40);
+}
+
+.buttonStyle001
+{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgb(0, 0, 0);
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.buttonStyle001:hover
+{
+    border-color: aqua;
+    cursor: pointer;
+}
+
+.buttonStyle001:active
+{
+    border-color: magenta;
+    color: magenta;
+}
+
+.locationMarker
+{
+    position: absolute;
+    width: 17px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    background-color:  rgb(0, 0, 0);
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.locationMarker:hover
+{
+    cursor: pointer;
+}
+
+.locationTextbox
+{
+    position: fixed;
+    width: 300px;
+    height: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    background-color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.resolutionInput
+{
+    width: 125px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    background-color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
