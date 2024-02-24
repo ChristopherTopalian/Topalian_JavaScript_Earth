@@ -5,4 +5,4 @@ Video: https://www.youtube.com/watch?v=andqM9s156w
 
 Use the App: https://sites.google.com/view/collegeofscripting/topalian_javascript_earth
 
-![Topalian_JavaScript_Frames_Per_Second](https://pbs.twimg.com/media/GG8TGofXIAAvbvb?format=png&name=large)
+![Photo](https://pbs.twimg.com/media/GG8TGofXIAAvbvb?format=png&name=large)
